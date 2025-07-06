@@ -50,6 +50,7 @@ Swaps an exact input amount of one token for a minimum output amount of the othe
 📊 getPrice
 
 Returns the current price of one token in terms of the other, based on the reserves.
+
 📢 Events
 
     LiquidityAdded(address indexed provider, uint amountA, uint amountB)

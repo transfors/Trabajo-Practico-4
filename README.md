@@ -1,4 +1,5 @@
 🚀 SimpleSwap
+
 📄 Description
 
 SimpleSwap is a minimal Solidity smart contract implementing a two-token liquidity pool using an Automated Market Maker (AMM) model. It allows users to:
@@ -14,7 +15,9 @@ This contract is an educational example inspired by the inner workings of protoc
 
 Name	Address
 TokenA	0x9bd9fEbe7399e3e4B360D2262D778f6cDA921b57
+
 TokenB	0x76C701fB590D9B72fA4Bb97beC3581DC36B75f4C
+
 SimpleSwap	0xcD98aE6B1a3cd2Aa85EcB97D85fCD53684b4Dd45
 
 ✨ Main Features

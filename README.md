@@ -8,8 +8,10 @@ SimpleSwap is a minimal Solidity smart contract implementing a two-token liquidi
     🔄 Swap one token for the other.
     📊 Query the current price of one token in terms of the other.
 
-This contract is an educational example inspired by the inner workings of protocols like Uniswap.
+This contract is an educational example inspired by the inner workings of protocols like Uniswap
+
 🛠️ Token and Contract Addresses
+
 Name	Address
 TokenA	0x9bd9fEbe7399e3e4B360D2262D778f6cDA921b57
 TokenB	0x76C701fB590D9B72fA4Bb97beC3581DC36B75f4C
@@ -98,7 +100,7 @@ Users can:
     Swap TokenA for TokenB and vice versa
     View the current token price
 
-🔗 Launch the DApp on Vercel ← (Replace with actual Vercel URL)
+🔗 Launch the DApp on Vercel ← https://tp-modulo-4-eopc.vercel.app/
 
 ⚙️ Requirements
 
